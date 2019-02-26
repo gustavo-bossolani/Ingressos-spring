@@ -1,0 +1,28 @@
+body{
+    background: #263c4a;
+    border-radius: 15px;
+}
+
+.box{
+    padding:60px 0px;
+}
+
+.box-part{s
+    background:#FFF;
+    border-radius:10px;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+
+.box-part:hover{
+    background:#e4f1f1;
+}
+
+
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#263c4a;
+}
